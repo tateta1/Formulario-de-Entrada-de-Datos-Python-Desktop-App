@@ -22,16 +22,10 @@ python main.py
 
 ---
 
-### 2. Explicación sencilla para LinkedIn (Instrucciones "No Técnicas")
-Si alguien que no sabe mucho de programación quiere verlo, puedes añadir una pequeña nota al final de tu post:
-
 > **¿Quieres probarlo?** 🛠️
 > Solo necesitas tener instalado **Python** y la librería **openpyxl**. Una vez descargado el código, ejecuta el archivo `main.py` y verás cómo se abre la ventana automáticamente. ¡Es así de simple!
 
 ---
-
-### 3. El toque profesional: Crear un "Ejecutable" (.exe)
-Si realmente quieres que **cualquier persona** pueda abrirlo con un solo clic (sin instalar Python ni nada), te recomiendo convertir tu proyecto en un archivo `.exe`.
 
 **¿Cómo hacerlo?**
 1. En tu terminal de PyCharm, instala esta herramienta:
